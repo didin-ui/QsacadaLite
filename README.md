@@ -24,7 +24,7 @@ Database tersimpan sebagai **satu file**: `db/scada.db` (dibuat otomatis).
 Tersedia 2 file pintasan di folder utama:
 
 - **`start.bat`** — otomatis meng-install dependency (jika belum), lalu menjalankan
-  backend + frontend di dua jendela, dan membuka browser ke http://localhost:5173.
+  backend + frontend di dua jendela, dan membuka browser ke http://localhost:3001.
 - **`stop.bat`** — menghentikan backend + frontend (proses di port 3001 & 5173).
 
 Cukup **double-click `start.bat`** untuk menjalankan, dan `stop.bat` untuk berhenti.
