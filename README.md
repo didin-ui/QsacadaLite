@@ -1,6 +1,8 @@
 # Q-Scada (Qoalca Scada)
 A web-based SCADA (Supervisory Control and Data Acquisition) HMI builder with real-time Modbus TCP data acquisition, role-based authentication, historical trending, reporting, alarm management, and automated data archival.
 
+# Link Download di Google Drive
+https://drive.google.com/drive/folders/1miobxUWhSVi0Ex355RFXXrj-rUbJ7exo?usp=sharing
 
 # Manual Menjalankan Q-Scada Lite
 
